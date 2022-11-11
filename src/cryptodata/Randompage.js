@@ -4,6 +4,7 @@ const Randompage = () => {
   return (
     <div>
       <h2> Just checking for Random navigating Routes</h2>
+      <h2> Hello ji </h2>
     </div>
   );
 };
